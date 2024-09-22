@@ -1,0 +1,8 @@
+*.bak
+*.log
+*.gitignore
+
+Cargo.lock
+.vscode/
+target/
+/target
